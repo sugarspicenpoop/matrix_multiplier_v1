@@ -1,0 +1,9 @@
+/.Xil
+/matrix_multiplier.cache
+/matrix_multiplier.hw
+/matrix_multiplier.ip_user_files
+/matrix_multiplier.sim
+/matrix_multiplier.tmp
+*.jou
+*.log
+*.xpr
